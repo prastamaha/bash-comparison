@@ -1,5 +1,9 @@
 # Bash Comparison
 
+## Table
+
+![table](table.png)
+
 ## Interger Comparison [1]
 
 equal to 
